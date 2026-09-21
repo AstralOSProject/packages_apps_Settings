@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:title="@string/astral_features_title">
+
+    <PreferenceCategory
+        android:title="@string/astral_features_toggles_category"
+        android:selectable="false">
+
+        <SwitchPreferenceCompat
+            android:key="feature_aod"
+            android:title="@string/astral_feature_aod_title"
+            android:summary="@string/astral_feature_aod_summary"
+            app:controller="com.android.settings.astral.AlwaysOnDisplayController"/>
+
+        <SwitchPreferenceCompat
+            android:key="feature_night_light"
+            android:title="@string/astral_feature_night_light_title"
+            android:summary="@string/astral_feature_night_light_summary"
+            app:controller="com.android.settings.astral.NightLightController"/>
+
+        <SwitchPreferenceCompat
+            android:key="feature_adaptive_sleep"
+            android:title="@string/astral_feature_adaptive_sleep_title"
+            android:summary="@string/astral_feature_adaptive_sleep_summary"
+            app:controller="com.android.settings.astral.AdaptiveSleepController"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
