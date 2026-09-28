@@ -25,6 +25,40 @@
             android:title="@string/astral_feature_adaptive_sleep_title"
             android:summary="@string/astral_feature_adaptive_sleep_summary"
             app:controller="com.android.settings.astral.AdaptiveSleepController"/>
+
+        <SwitchPreferenceCompat
+            android:key="feature_extra_dim"
+            android:title="@string/astral_feature_extra_dim_title"
+            android:summary="@string/astral_feature_extra_dim_summary"
+            app:controller="com.android.settings.astral.ExtraDimController"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/astral_features_feel_category"
+        android:selectable="false">
+
+        <ListPreference
+            android:key="feature_animation_speed"
+            android:title="@string/astral_feature_anim_speed_title"
+            android:summary="%s"
+            android:entries="@array/astral_animation_speed_entries"
+            android:entryValues="@array/astral_animation_speed_values"
+            android:defaultValue="1.0"
+            app:controller="com.android.settings.astral.AnimationSpeedController"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/astral_features_lock_category"
+        android:selectable="false">
+
+        <ListPreference
+            android:key="feature_clock_color"
+            android:title="@string/astral_feature_clock_color_title"
+            android:summary="%s"
+            android:entries="@array/astral_clock_color_entries"
+            android:entryValues="@array/astral_clock_color_values"
+            android:defaultValue=""
+            app:controller="com.android.settings.astral.LockscreenClockColorController"/>
     </PreferenceCategory>
 
 </PreferenceScreen>

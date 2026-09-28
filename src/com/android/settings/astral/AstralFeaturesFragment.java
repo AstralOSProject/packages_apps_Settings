@@ -39,6 +39,9 @@ public class AstralFeaturesFragment extends DashboardFragment {
         controllers.add(new AlwaysOnDisplayController(context, "feature_aod"));
         controllers.add(new NightLightController(context, "feature_night_light"));
         controllers.add(new AdaptiveSleepController(context, "feature_adaptive_sleep"));
+        controllers.add(new ExtraDimController(context, "feature_extra_dim"));
+        controllers.add(new AnimationSpeedController(context, "feature_animation_speed"));
+        controllers.add(new LockscreenClockColorController(context, "feature_clock_color"));
         return controllers;
     }
 

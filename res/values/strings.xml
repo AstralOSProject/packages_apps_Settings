@@ -13927,7 +13927,7 @@
 
     <!-- AstralOS Features -->
     <string name="astral_features_title">AstralOS Features</string>
-    <string name="astral_features_toggles_category">Quick Settings</string>
+    <string name="astral_features_toggles_category">Toggles</string>
     <string name="astral_features_enabled_category">Enabled at Build Time</string>
 
     <string name="astral_feature_aod_title">Always-On Display (Beta)</string>
@@ -13965,6 +13965,11 @@
 
     <string name="astral_feature_camera_zsl_title">Camera Zero Shutter Lag</string>
     <string name="astral_feature_camera_zsl_summary">Captures the moment instantly without shutter delay</string>
+
+    <string name="astral_features_feel_category">Feel</string>
+    <string name="astral_feature_anim_speed_title">Animation Speed</string>
+    <string name="astral_features_lock_category">Lock Screen</string>
+    <string name="astral_feature_clock_color_title">Clock Color</string>
 
     <string name="astral_features_entry_title">AstralOS Features</string>
     <string name="astral_features_entry_summary">Learn about the features included in this ROM</string>
