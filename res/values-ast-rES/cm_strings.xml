@@ -70,8 +70,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Activa l\'usu de los datos móviles</string>
     <string name="data_usage_app_restrict_vpn">Datos per VPN</string>
     <string name="data_usage_app_restrict_vpn_summary">Activa l\'usu de los datos per VPN</string>
-    <string name="data_usage_app_restrict_wifi">Datos Wi\u2011Fi</string>
-    <string name="data_usage_app_restrict_wifi_summary">Activa l\'usu de los datos Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi">Datos Wi-Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Activa l\'usu de los datos Wi-Fi</string>
     <string name="unlock_scramble_pin_layout_title">Distribución al debalu</string>
     <string name="unlock_scramble_pin_layout_summary">Alteria la distribución del tecláu del PIN al desbloquiar el preséu</string>
     <string name="proximity_wake_title">Evitar l\'esconsueñu accidental</string>

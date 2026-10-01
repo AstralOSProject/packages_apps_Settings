@@ -74,8 +74,8 @@
     <string name="data_usage_app_restrict_mobile_summary">모바일 데이터 사용 허용</string>
     <string name="data_usage_app_restrict_vpn">VPN 데이터</string>
     <string name="data_usage_app_restrict_vpn_summary">VPN 데이터 사용 허용</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi 데이터</string>
-    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi 데이터 사용 허용</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi 데이터</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi-Fi 데이터 사용 허용</string>
     <string name="unlock_scramble_pin_layout_title">레이아웃 섞기</string>
     <string name="unlock_scramble_pin_layout_summary">장치를 잠금 해제할 때 PIN 레이아웃 섞기</string>
     <string name="proximity_wake_title">실수로 화면 켜기 방지</string>

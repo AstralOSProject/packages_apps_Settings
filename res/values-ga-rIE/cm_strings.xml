@@ -77,8 +77,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Cumasaigh úsáid sonraí soghluaiste</string>
     <string name="data_usage_app_restrict_vpn">Sonraí VPN</string>
     <string name="data_usage_app_restrict_vpn_summary">Cumasaigh úsáid sonraí VPN</string>
-    <string name="data_usage_app_restrict_wifi">Sonraí Wi\u2011Fi</string>
-    <string name="data_usage_app_restrict_wifi_summary">Cumasaigh úsáid sonraí Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi">Sonraí Wi-Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Cumasaigh úsáid sonraí Wi-Fi</string>
     <string name="unlock_scramble_pin_layout_title">Scrobh laíodán</string>
     <string name="unlock_scramble_pin_layout_summary">Scrobh  leagan amach PIN agus an gléas á dhíghlasáil</string>
     <string name="proximity_wake_title">Cosc a chur ar dhúiseacht thaisme</string>

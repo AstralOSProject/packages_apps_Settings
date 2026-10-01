@@ -27,8 +27,8 @@
     <string name="lock_settings_picker_pattern_size_message">ರೂಪಿಕೆಯ ಗಾತ್ರವನ್ನು ಆರಿಸು</string>
     <string name="lockpattern_settings_enable_error_path_title">ನಮೂನೆ ದೋಷವನ್ನು ಪ್ರದರ್ಶಿಸು</string>
     <string name="lockpattern_settings_enable_dots_title">ನಮೂನೆ ಚುಕ್ಕಿಗಳನ್ನು ಪ್ರದರ್ಶಿಸು</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi ದತ್ತಾಂಶ</string>
-    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi ದತ್ತಾಂಶದ ಬಳಕೆ ಸಶಕ್ತಿಸು</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi ದತ್ತಾಂಶ</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi-Fi ದತ್ತಾಂಶದ ಬಳಕೆ ಸಶಕ್ತಿಸು</string>
     <string name="unlock_scramble_pin_layout_title">ವಿನ್ಯಾಸವನ್ನು ಅಸ್ತವ್ಯಸ್ತಗೊಳಿಸು</string>
     <string name="unlock_scramble_pin_layout_summary">ಸಾಧನವನ್ನು ಅನ್‍ಲಾಕ್ ಮಾಡುವಾಗ ಪಿನ್ ವಿನ್ಯಾಸವನ್ನು ಅಸ್ತವ್ಯಸ್ತಗೊಳಿಸು</string>
     <string name="proximity_wake_title">ಆಕಸ್ಮಿಕವಾಗಿ ಎಚ್ಚರವಾಗುವಿಕೆಯನ್ನು ತಡೆ</string>

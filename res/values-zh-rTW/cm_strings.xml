@@ -74,8 +74,8 @@
     <string name="data_usage_app_restrict_mobile_summary">啟用行動網路流量統計</string>
     <string name="data_usage_app_restrict_vpn">VPN 數據</string>
     <string name="data_usage_app_restrict_vpn_summary">啟用 VPN 數據用量</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi 數據</string>
-    <string name="data_usage_app_restrict_wifi_summary">啟用 Wi\u2011Fi 數據</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi 數據</string>
+    <string name="data_usage_app_restrict_wifi_summary">啟用 Wi-Fi 數據</string>
     <string name="unlock_scramble_pin_layout_title">亂序佈局</string>
     <string name="unlock_scramble_pin_layout_summary">解鎖裝置時使用亂序 PIN 碼佈局</string>
     <string name="proximity_wake_title">防止意外喚醒</string>

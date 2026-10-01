@@ -29,8 +29,8 @@
     <string name="lockpattern_settings_enable_dots_title">Erakutsi ereduaren puntuak</string>
     <string name="data_usage_app_restrict_vpn">VPN datuak</string>
     <string name="data_usage_app_restrict_vpn_summary">Gaitu VPN datuen erabilera</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi datuak</string>
-    <string name="data_usage_app_restrict_wifi_summary">Gaitu of Wi\u2011Fi datuen erabilera</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi datuak</string>
+    <string name="data_usage_app_restrict_wifi_summary">Gaitu of Wi-Fi datuen erabilera</string>
     <string name="unlock_scramble_pin_layout_title">Zorizko diseinua</string>
     <string name="unlock_scramble_pin_layout_summary">PIN zenbakiaren antolaketa nahastu gailua desblokeatzean</string>
     <string name="proximity_wake_title">Eragotzi ustekabeko esnatzea</string>

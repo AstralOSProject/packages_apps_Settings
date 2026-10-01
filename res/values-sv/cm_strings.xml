@@ -38,8 +38,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Aktivera användning av mobildata</string>
     <string name="data_usage_app_restrict_vpn">VPN-data</string>
     <string name="data_usage_app_restrict_vpn_summary">Aktivera användning av VPN-data</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi\u2011data</string>
-    <string name="data_usage_app_restrict_wifi_summary">Aktivera användning av Wi\u2011Fi\u2011data</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi-data</string>
+    <string name="data_usage_app_restrict_wifi_summary">Aktivera användning av Wi-Fi-data</string>
     <string name="unlock_scramble_pin_layout_title">Kasta om layout</string>
     <string name="unlock_scramble_pin_layout_summary">Kasta om PIN-layout vid upplåsning av enheten</string>
     <string name="proximity_wake_title">Förhindra oavsiktlig väckning</string>

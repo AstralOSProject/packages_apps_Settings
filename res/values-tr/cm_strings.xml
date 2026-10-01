@@ -74,8 +74,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Mobil veri kullanımını etkinleştir</string>
     <string name="data_usage_app_restrict_vpn">VPN verileri</string>
     <string name="data_usage_app_restrict_vpn_summary">VPN veri kullanımını etkinleştir</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi veri</string>
-    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi veri kullanımını etkinleştir</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi veri</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi-Fi veri kullanımını etkinleştir</string>
     <string name="unlock_scramble_pin_layout_title">Düzeni karıştır</string>
     <string name="unlock_scramble_pin_layout_summary">Cihaz kilidini açarken PIN düzenini karıştırır</string>
     <string name="proximity_wake_title">Yanlış uyandırmaları önle</string>

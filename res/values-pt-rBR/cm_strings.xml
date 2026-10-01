@@ -74,8 +74,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Permitir o uso de dados móveis</string>
     <string name="data_usage_app_restrict_vpn">Dados VPN</string>
     <string name="data_usage_app_restrict_vpn_summary">Permitir o uso de dados via VPN</string>
-    <string name="data_usage_app_restrict_wifi">Dados Wi\u2011Fi</string>
-    <string name="data_usage_app_restrict_wifi_summary">Permitir o uso de dados via Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi">Dados Wi-Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Permitir o uso de dados via Wi-Fi</string>
     <string name="unlock_scramble_pin_layout_title">Embaralhar PIN</string>
     <string name="unlock_scramble_pin_layout_summary">Embaralhar PIN ao desbloquear o dispositivo</string>
     <string name="proximity_wake_title">Evitar ativação da tela acidental</string>

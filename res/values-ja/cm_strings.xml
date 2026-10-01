@@ -74,8 +74,8 @@
     <string name="data_usage_app_restrict_mobile_summary">モバイルデータ使用量を有効化する</string>
     <string name="data_usage_app_restrict_vpn">VPN データ</string>
     <string name="data_usage_app_restrict_vpn_summary">VPN データ使用量を有効化する</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi データ使用量</string>
-    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi データ使用量を有効化します</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi データ使用量</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi-Fi データ使用量を有効化します</string>
     <string name="unlock_scramble_pin_layout_title">スクランブルレイアウト</string>
     <string name="unlock_scramble_pin_layout_summary">端末のロック解除時にPINレイアウトをランダムにする</string>
     <string name="proximity_wake_title">誤作動を防止</string>

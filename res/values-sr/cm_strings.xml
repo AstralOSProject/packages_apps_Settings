@@ -29,8 +29,8 @@
     <string name="lock_settings_picker_pattern_size_message">Изаберите величину шаблона</string>
     <string name="lockpattern_settings_enable_error_path_title">Прикажи неисправан унос</string>
     <string name="lockpattern_settings_enable_dots_title">Прикажи тачке</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi подаци</string>
-    <string name="data_usage_app_restrict_wifi_summary">Укључи употребу Wi\u2011Fi података</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi подаци</string>
+    <string name="data_usage_app_restrict_wifi_summary">Укључи употребу Wi-Fi података</string>
     <string name="unlock_scramble_pin_layout_title">Насумични распоред</string>
     <string name="unlock_scramble_pin_layout_summary">Приказује дугмад за унос PIN кода у насумичном реду.</string>
     <string name="proximity_wake_title">Спречи случајно буђење</string>

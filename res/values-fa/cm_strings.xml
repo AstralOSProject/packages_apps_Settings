@@ -74,8 +74,8 @@
     <string name="data_usage_app_restrict_mobile_summary">استفاده از داده تلفن همراه را فعال کنید</string>
     <string name="data_usage_app_restrict_vpn">داده‌ وی پی ان</string>
     <string name="data_usage_app_restrict_vpn_summary">فعال کردن آمار داده وی پی ان</string>
-    <string name="data_usage_app_restrict_wifi">داده وای\u2011فای</string>
-    <string name="data_usage_app_restrict_wifi_summary">استفاده از داده وای\u2011فای را فعال کنید</string>
+    <string name="data_usage_app_restrict_wifi">داده وای-فای</string>
+    <string name="data_usage_app_restrict_wifi_summary">استفاده از داده وای-فای را فعال کنید</string>
     <string name="unlock_scramble_pin_layout_title">چینش درهم</string>
     <string name="unlock_scramble_pin_layout_summary">چینش درهم پین هنگام باز کردن قفل دستگاه</string>
     <string name="proximity_wake_title">جلوگیری از بیدار شدن تصادفی</string>

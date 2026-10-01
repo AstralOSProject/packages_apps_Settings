@@ -74,7 +74,7 @@
     <string name="data_usage_app_restrict_mobile_summary">მობილური ინტერნეტის გამოყენების შესაძლებლობა</string>
     <string name="data_usage_app_restrict_vpn">VPN-კავშირი</string>
     <string name="data_usage_app_restrict_vpn_summary">VPN-კავშირის გამოყენების შესაძლებლობა</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi ინტერნეტი</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi ინტერნეტი</string>
     <string name="data_usage_app_restrict_wifi_summary">WiFi-კავშირის გამოყენების შესაძლებლობა</string>
     <string name="unlock_scramble_pin_layout_title">ღილაკების არევა</string>
     <string name="unlock_scramble_pin_layout_summary">ღილაკების არეულად გამოჩენა PIN-კოდით გახსნისას</string>

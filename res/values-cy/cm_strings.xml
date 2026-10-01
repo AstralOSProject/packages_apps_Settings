@@ -67,8 +67,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Galluogi\'r defnydd o ddata symudol</string>
     <string name="data_usage_app_restrict_vpn">VPN data</string>
     <string name="data_usage_app_restrict_vpn_summary">Galluogi defnyddio VPN data</string>
-    <string name="data_usage_app_restrict_wifi">Data Wi\u2011Fi</string>
-    <string name="data_usage_app_restrict_wifi_summary">Galluogi defnydd data Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi">Data Wi-Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Galluogi defnydd data Wi-Fi</string>
     <string name="unlock_scramble_pin_layout_title">Cymysgu\'r cynllun</string>
     <string name="unlock_scramble_pin_layout_summary">Cymysgu cynllun y PIN wrth ddatgloi\'r ddyfais</string>
     <string name="proximity_wake_title">Rhwystro deffro ar gam</string>

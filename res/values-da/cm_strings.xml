@@ -65,8 +65,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Aktiver brug af mobildata</string>
     <string name="data_usage_app_restrict_vpn">VPN data</string>
     <string name="data_usage_app_restrict_vpn_summary">Aktivér brug af VPN-data</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi data</string>
-    <string name="data_usage_app_restrict_wifi_summary">Aktiver brug af Wi\u2011Fi data</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi data</string>
+    <string name="data_usage_app_restrict_wifi_summary">Aktiver brug af Wi-Fi data</string>
     <string name="unlock_scramble_pin_layout_title">Omvælt opsætning</string>
     <string name="unlock_scramble_pin_layout_summary">Omvælt PIN-opsætning, ved oplåsning af enhed</string>
     <string name="proximity_wake_title">Forhindr utilsigtet vækning</string>

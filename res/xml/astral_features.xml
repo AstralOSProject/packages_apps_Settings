@@ -61,4 +61,15 @@
             app:controller="com.android.settings.astral.LockscreenClockColorController"/>
     </PreferenceCategory>
 
+    <PreferenceCategory
+        android:title="@string/astral_features_gestures_category"
+        android:selectable="false">
+
+        <SwitchPreferenceCompat
+            android:key="feature_shake_flashlight"
+            android:title="@string/astral_feature_shake_flashlight_title"
+            android:summary="@string/astral_feature_shake_flashlight_summary"
+            app:controller="com.android.settings.astral.ShakeFlashlightController"/>
+    </PreferenceCategory>
+
 </PreferenceScreen>

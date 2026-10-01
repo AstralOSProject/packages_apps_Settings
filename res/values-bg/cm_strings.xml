@@ -76,8 +76,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Разреши използването на мобилни данни</string>
     <string name="data_usage_app_restrict_vpn">VPN данни</string>
     <string name="data_usage_app_restrict_vpn_summary">Активиране използването на VPN данни</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi данни</string>
-    <string name="data_usage_app_restrict_wifi_summary">Разреши използването на Wi\u2011Fi данни</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi данни</string>
+    <string name="data_usage_app_restrict_wifi_summary">Разреши използването на Wi-Fi данни</string>
     <string name="unlock_scramble_pin_layout_title">Разбъркано оформление</string>
     <string name="unlock_scramble_pin_layout_summary">Разбъркано PIN оформление при отключване на устройството</string>
     <string name="proximity_wake_title">Предотвратяване на случайно събуждане</string>

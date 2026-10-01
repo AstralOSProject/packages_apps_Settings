@@ -47,8 +47,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Activar o uso dos datos móbiles</string>
     <string name="data_usage_app_restrict_vpn">Datos VPN</string>
     <string name="data_usage_app_restrict_vpn_summary">Activar o uso de datos por VPN</string>
-    <string name="data_usage_app_restrict_wifi">Datos Wi\u2011Fi</string>
-    <string name="data_usage_app_restrict_wifi_summary">Activar o uso dos datos Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi">Datos Wi-Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Activar o uso dos datos Wi-Fi</string>
     <string name="unlock_scramble_pin_layout_title">Disposición aleatoria</string>
     <string name="unlock_scramble_pin_layout_summary">Cambiar a disposición dos números do PIN para desbloquear o dispositivo</string>
     <string name="proximity_wake_title">Previr acender de forma accidental</string>

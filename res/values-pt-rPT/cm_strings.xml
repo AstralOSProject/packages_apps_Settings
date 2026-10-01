@@ -74,8 +74,8 @@
     <string name="data_usage_app_restrict_mobile_summary">Ativar utilização de dados móveis</string>
     <string name="data_usage_app_restrict_vpn">Dados VPN</string>
     <string name="data_usage_app_restrict_vpn_summary">Ativar a utilização de dados VPN</string>
-    <string name="data_usage_app_restrict_wifi">Dados Wi\u2011Fi</string>
-    <string name="data_usage_app_restrict_wifi_summary">Ativar a utilização de dados Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi">Dados Wi-Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Ativar a utilização de dados Wi-Fi</string>
     <string name="unlock_scramble_pin_layout_title">Disposição aleatória</string>
     <string name="unlock_scramble_pin_layout_summary">Apresentar aleatoriamente a disposição do teclado numérico, quando desbloquear com PIN</string>
     <string name="proximity_wake_title">Impedir que o ecrã se ligue acidentalmente</string>
