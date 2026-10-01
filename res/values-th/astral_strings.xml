@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">ฟีเจอร์ AstralOS</string>
+    <string name="astral_features_toggles_category">สวิตช์</string>
+    <string name="astral_feature_aod_title">เสมอแสดงหน้าจอ (เบต้า)</string>
+    <string name="astral_feature_aod_summary">ดูเวลาและการแจ้งเตือนโดยไม่ต้องปลุกอุปกรณ์ อาจทำให้รีสตาร์ทในบางอุปกรณ์</string>
+    <string name="astral_feature_night_light_title">แสงกลางคืน</string>
+    <string name="astral_feature_night_light_summary">ลดแสงสีฟ้าเพื่อการดูสบายตาในเวลากลางคืน</string>
+    <string name="astral_feature_extra_dim_title">หรี่เพิ่มเติม</string>
+    <string name="astral_feature_extra_dim_summary">ลดความสว่างต่ำกว่าค่าต่ำสุดเริ่มต้น</string>
+    <string name="astral_feature_adaptive_sleep_title">การนอนหลับแบบปรับตัว</string>
+    <string name="astral_feature_adaptive_sleep_summary">คงหน้าจอไว้ขณะที่คุณกำลังมองอยู่</string>
+    <string name="astral_feature_background_blur_title">พื้นหลังเบลอ</string>
+    <string name="astral_feature_background_blur_summary">เปิดเอฟเฟกต์เบลอในการตั้งค่าด่วนและแอปล่าสุด</string>
+    <string name="astral_feature_zram_title">การบีบอัด ZRAM lz4hc</string>
+    <string name="astral_feature_zram_summary">การบีบอัดหน่วยความจำที่ดีขึ้นสำหรับมัลติทาสกิ้งที่ดีขึ้น</string>
+    <string name="astral_feature_input_boost_title">เร่งการป้อนข้อมูล</string>
+    <string name="astral_feature_input_boost_summary">เร่งซีพียูเมื่อสัมผัสเพื่อการตอบสนองที่รวดเร็วยิ่งขึ้น</string>
+    <string name="astral_feature_dex2oat_title">การคอมไพล์แอปที่ปรับให้เหมาะสม</string>
+    <string name="astral_feature_dex2oat_summary">ติดตั้งและบูตเร็วขึ้นจากการปรับ dex2oat</string>
+    <string name="astral_feature_filesystem_title">ระบบไฟล์ที่ปรับให้เหมาะสม</string>
+    <string name="astral_feature_filesystem_summary">ภาระ I/O ดิสก์ลดลงด้วยตัวเลือกการเมานต์ noatime</string>
+    <string name="astral_feature_font_title">แบบอักษร Google Sans Flex</string>
+    <string name="astral_feature_font_summary">แบบอักษรตัวแปรสมัยใหม่ที่แทนที่ Roboto</string>
+    <string name="astral_feature_wpa3_title">อัปเกรดอัตโนมัติเป็น WPA3</string>
+    <string name="astral_feature_wpa3_summary">อัปเกรดเป็น WPA3 โดยอัตโนมัติเมื่อเครือข่ายรองรับ</string>
+    <string name="astral_feature_camera_zsl_title">กล้องไร้ความหน่วมชัตเตอร์</string>
+    <string name="astral_feature_camera_zsl_summary">จับภาพช่วงเวลาทันทีโดยไม่มีความหน่วมชัตเตอร์</string>
+    <string name="astral_features_feel_category">ความรู้สึก</string>
+    <string name="astral_feature_anim_speed_title">ความเร็วแอนิเมชัน</string>
+    <string name="astral_features_lock_category">หน้าจอล็อก</string>
+    <string name="astral_feature_clock_color_title">สีนาฬิกา</string>
+    <string name="astral_features_gestures_category">ท่าทาง</string>
+    <string name="astral_feature_shake_flashlight_title">เขย่าเพื่อเปิดไฟฉาย</string>
+    <string name="astral_feature_shake_flashlight_summary">เขย่าโทรศัพท์อย่างแรงเพื่อเปิดหรือปิดไฟฉาย</string>
+    <string name="astral_features_entry_title">ฟีเจอร์ AstralOS</string>
+    <string name="astral_features_entry_summary">เรียนรู้เกี่ยวกับฟีเจอร์ที่มีใน ROM นี้</string>
+    <string name="astral_maintainer_title">ผู้ดูแล</string>
+</resources>

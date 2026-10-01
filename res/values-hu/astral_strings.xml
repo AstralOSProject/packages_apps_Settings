@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">AstralOS-funkciók</string>
+    <string name="astral_features_toggles_category">Kapcsolók</string>
+    <string name="astral_feature_aod_title">Mindig megjelenített kijelző (Beta)</string>
+    <string name="astral_feature_aod_summary">Az idő és az értesítések megjelenítése az eszköz felébresztése nélkül. Egyes eszközökön újraindulást okozhat.</string>
+    <string name="astral_feature_night_light_title">Éjszakai fény</string>
+    <string name="astral_feature_night_light_summary">Csökkenti a kék fényt a kényelmes éjszakai megtekintéshez</string>
+    <string name="astral_feature_extra_dim_title">Extra halványítás</string>
+    <string name="astral_feature_extra_dim_summary">Az alapértelmezett minimum alá csökkenti a fényerőt</string>
+    <string name="astral_feature_adaptive_sleep_title">Adaptív alvás</string>
+    <string name="astral_feature_adaptive_sleep_summary">Bekapcsolva tartja a kijelzőt, amíg rá nézel</string>
+    <string name="astral_feature_background_blur_title">Háttér elmosása</string>
+    <string name="astral_feature_background_blur_summary">Elmosási effekteket kapcsol be a gyorsbeállításokban és a legutóbbi alkalmazásokban</string>
+    <string name="astral_feature_zram_title">ZRAM lz4hc tömörítés</string>
+    <string name="astral_feature_zram_summary">Javított memóriatömörítés a jobb többfeladatossághoz</string>
+    <string name="astral_feature_input_boost_title">Bemeneti gyorsítás</string>
+    <string name="astral_feature_input_boost_summary">Érintéskor gyorsítja a CPU-t a jobb reakcióért</string>
+    <string name="astral_feature_dex2oat_title">Optimalizált alkalmazáskompilálás</string>
+    <string name="astral_feature_dex2oat_summary">Gyorsabb alkalmazástelepítés és indulás a dex2oat hangolásával</string>
+    <string name="astral_feature_filesystem_title">Optimalizált fájlrendszer</string>
+    <string name="astral_feature_filesystem_summary">Kisebb lemez-I/O terhelés a noatime csatolási opcióval</string>
+    <string name="astral_feature_font_title">Google Sans Flex betűtípus</string>
+    <string name="astral_feature_font_summary">Modern változó betűtípus, amely felváltja a Roboto-t</string>
+    <string name="astral_feature_wpa3_title">Automatikus frissítés WPA3-ra</string>
+    <string name="astral_feature_wpa3_summary">Automatikusan WPA3-ra frissül, ha a hálózat támogatja</string>
+    <string name="astral_feature_camera_zsl_title">Zárkésleltetés nélküli kamera</string>
+    <string name="astral_feature_camera_zsl_summary">Azonnal rögzíti a pillanatot, exponálási késés nélkül</string>
+    <string name="astral_features_feel_category">Érzet</string>
+    <string name="astral_feature_anim_speed_title">Animáció sebessége</string>
+    <string name="astral_features_lock_category">Zárolási képernyő</string>
+    <string name="astral_feature_clock_color_title">Óra színe</string>
+    <string name="astral_features_gestures_category">Kézmozdulatok</string>
+    <string name="astral_feature_shake_flashlight_title">Rázd a zseblámpáért</string>
+    <string name="astral_feature_shake_flashlight_summary">Rázd meg határozottan a telefont a zseblámpa be- vagy kikapcsolásához</string>
+    <string name="astral_features_entry_title">AstralOS-funkciók</string>
+    <string name="astral_features_entry_summary">Ismerd meg a ROM-ban található funkciókat</string>
+    <string name="astral_maintainer_title">Karbantartó</string>
+</resources>

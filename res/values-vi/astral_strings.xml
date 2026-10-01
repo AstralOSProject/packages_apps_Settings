@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">Tính năng AstralOS</string>
+    <string name="astral_features_toggles_category">Công tắc</string>
+    <string name="astral_feature_aod_title">Màn hình luôn hiển thị (Beta)</string>
+    <string name="astral_feature_aod_summary">Xem giờ và thông báo mà không đánh thức thiết bị. Có thể gây khởi động lại trên một số thiết bị.</string>
+    <string name="astral_feature_night_light_title">Đèn ban đêm</string>
+    <string name="astral_feature_night_light_summary">Giảm ánh sáng xanh cho việc xem thoải mái vào ban đêm</string>
+    <string name="astral_feature_extra_dim_title">Dim thêm</string>
+    <string name="astral_feature_extra_dim_summary">Giảm độ sáng xuống dưới mức tối thiểu mặc định</string>
+    <string name="astral_feature_adaptive_sleep_title">Giấc ngủ thích ứng</string>
+    <string name="astral_feature_adaptive_sleep_summary">Giữ màn hình bật khi bạn đang nhìn vào nó</string>
+    <string name="astral_feature_background_blur_title">Làm mờ nền</string>
+    <string name="astral_feature_background_blur_summary">Bật hiệu ứng làm mờ trong cài đặt nhanh và ứng dụng gần đây</string>
+    <string name="astral_feature_zram_title">Nén ZRAM lz4hc</string>
+    <string name="astral_feature_zram_summary">Nén bộ nhớ tốt hơn cho đa nhiệm tốt hơn</string>
+    <string name="astral_feature_input_boost_title">Tăng tốc đầu vào</string>
+    <string name="astral_feature_input_boost_summary">Tăng tốc CPU khi chạm cho trải nghiệm nhạy hơn</string>
+    <string name="astral_feature_dex2oat_title">Biên dịch ứng dụng tối ưu</string>
+    <string name="astral_feature_dex2oat_summary">Cài đặt và khởi động nhanh hơn nhờ tinh chỉnh dex2oat</string>
+    <string name="astral_feature_filesystem_title">Hệ thống tệp tối ưu</string>
+    <string name="astral_feature_filesystem_summary">Giảm chi phí I/O đĩa với tùy chọn gắn noatime</string>
+    <string name="astral_feature_font_title">Phông chữ Google Sans Flex</string>
+    <string name="astral_feature_font_summary">Phông chữ biến đổi hiện đại thay thế Roboto</string>
+    <string name="astral_feature_wpa3_title">Nâng cấp tự động WPA3</string>
+    <string name="astral_feature_wpa3_summary">Tự động nâng cấp lên WPA3 khi mạng hỗ trợ</string>
+    <string name="astral_feature_camera_zsl_title">Máy ảnh không trễ màn trập</string>
+    <string name="astral_feature_camera_zsl_summary">Bắt khoảnh khắc ngay lập tức mà không trễ chụp</string>
+    <string name="astral_features_feel_category">Cảm giác</string>
+    <string name="astral_feature_anim_speed_title">Tốc độ hoạt ảnh</string>
+    <string name="astral_features_lock_category">Màn hình khóa</string>
+    <string name="astral_feature_clock_color_title">Màu đồng hồ</string>
+    <string name="astral_features_gestures_category">Cử chỉ</string>
+    <string name="astral_feature_shake_flashlight_title">Lắc để bật đèn pin</string>
+    <string name="astral_feature_shake_flashlight_summary">Lắc điện thoại thật mạnh để bật hoặc tắt đèn pin</string>
+    <string name="astral_features_entry_title">Tính năng AstralOS</string>
+    <string name="astral_features_entry_summary">Tìm hiểu về các tính năng có trong ROM này</string>
+    <string name="astral_maintainer_title">Người bảo trì</string>
+</resources>

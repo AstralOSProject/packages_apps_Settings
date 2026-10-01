@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">Funkcje AstralOS</string>
+    <string name="astral_features_toggles_category">Przełączniki</string>
+    <string name="astral_feature_aod_title">Wyświetlacz zawsze aktywny (Beta)</string>
+    <string name="astral_feature_aod_summary">Zobacz godzinę i powiadomienia bez wybudzania urządzenia. Może powodować restarty na niektórych urządzeniach.</string>
+    <string name="astral_feature_night_light_title">Światło nocne</string>
+    <string name="astral_feature_night_light_summary">Ogranicza niebieskie światło dla komfortowego oglądania w nocy</string>
+    <string name="astral_feature_extra_dim_title">Dodatkowe przyciemnienie</string>
+    <string name="astral_feature_extra_dim_summary">Zmniejsza jasność poniżej domyślnego minimum</string>
+    <string name="astral_feature_adaptive_sleep_title">Adaptacyjny sen</string>
+    <string name="astral_feature_adaptive_sleep_summary">Utrzymuje włączony ekran, gdy na niego patrzysz</string>
+    <string name="astral_feature_background_blur_title">Rozmycie tła</string>
+    <string name="astral_feature_background_blur_summary">Włącza efekty rozmycia w szybkich ustawieniach i ostatnich aplikacjach</string>
+    <string name="astral_feature_zram_title">Kompresja ZRAM lz4hc</string>
+    <string name="astral_feature_zram_summary">Lepsza kompresja pamięci dla lepszej wielozadaniowości</string>
+    <string name="astral_feature_input_boost_title">Przyspieszenie wejścia</string>
+    <string name="astral_feature_input_boost_summary">Przyspiesza CPU przy dotyku dla bardziej responsywnego działania</string>
+    <string name="astral_feature_dex2oat_title">Zoptymalizowana kompilacja aplikacji</string>
+    <string name="astral_feature_dex2oat_summary">Szybsza instalacja i uruchamianie dzięki strojeniu dex2oat</string>
+    <string name="astral_feature_filesystem_title">Zoptymalizowany system plików</string>
+    <string name="astral_feature_filesystem_summary">Mniejsze obciążenie I/O dysku dzięki opcji montowania noatime</string>
+    <string name="astral_feature_font_title">Krój Google Sans Flex</string>
+    <string name="astral_feature_font_summary">Nowoczesny krój zmienny zastępujący domyślny Roboto</string>
+    <string name="astral_feature_wpa3_title">Automatyczna aktualizacja do WPA3</string>
+    <string name="astral_feature_wpa3_summary">Automatycznie przechodzi na WPA3, gdy sieć to obsługuje</string>
+    <string name="astral_feature_camera_zsl_title">Aparat bez opóźnienia migawki</string>
+    <string name="astral_feature_camera_zsl_summary">Uchwycenie chwili natychmiast, bez opóźnienia migawki</string>
+    <string name="astral_features_feel_category">Odczucia</string>
+    <string name="astral_feature_anim_speed_title">Szybkość animacji</string>
+    <string name="astral_features_lock_category">Ekran blokady</string>
+    <string name="astral_feature_clock_color_title">Kolor zegara</string>
+    <string name="astral_features_gestures_category">Gesty</string>
+    <string name="astral_feature_shake_flashlight_title">Potrząśnij, aby włączyć latarkę</string>
+    <string name="astral_feature_shake_flashlight_summary">Mocno potrząśnij telefonem, aby włączyć lub wyłączyć latarkę</string>
+    <string name="astral_features_entry_title">Funkcje AstralOS</string>
+    <string name="astral_features_entry_summary">Poznaj funkcje zawarte w tym ROM-ie</string>
+    <string name="astral_maintainer_title">Opiekun</string>
+</resources>

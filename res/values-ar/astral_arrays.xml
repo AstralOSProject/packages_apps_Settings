@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="astral_animation_speed_entries">
+        <item>افتراضي</item>
+        <item>سريع</item>
+        <item>أسرع</item>
+        <item>توربو</item>
+    </string-array>
+    <string-array name="astral_clock_color_entries">
+        <item>الخلفية (افتراضي)</item>
+        <item>أبيض</item>
+        <item>أزرق</item>
+        <item>سماوي</item>
+        <item>أخضر</item>
+        <item>أصفر</item>
+        <item>برتقالي</item>
+        <item>أحمر</item>
+        <item>وردي</item>
+        <item>بنفسجي</item>
+    </string-array>
+</resources>

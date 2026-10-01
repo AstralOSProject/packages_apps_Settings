@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">Fitur AstralOS</string>
+    <string name="astral_features_toggles_category">Sakelar</string>
+    <string name="astral_feature_aod_title">Always-On Display (Beta)</string>
+    <string name="astral_feature_aod_summary">Lihat waktu dan notifikasi tanpa membangunkan perangkat. Dapat menyebabkan mulai ulang di beberapa perangkat.</string>
+    <string name="astral_feature_night_light_title">Cahaya malam</string>
+    <string name="astral_feature_night_light_summary">Mengurangi cahaya biru untuk kenyamanan menonton malam hari</string>
+    <string name="astral_feature_extra_dim_title">Redup ekstra</string>
+    <string name="astral_feature_extra_dim_summary">Menurunkan kecerahan di bawah minimum bawaan</string>
+    <string name="astral_feature_adaptive_sleep_title">Tidur adaptif</string>
+    <string name="astral_feature_adaptive_sleep_summary">Menjaga layar tetap menyala saat Anda melihatnya</string>
+    <string name="astral_feature_background_blur_title">Blur latar belakang</string>
+    <string name="astral_feature_background_blur_summary">Mengaktifkan efek blur di pengaturan cepat dan aplikasi terbaru</string>
+    <string name="astral_feature_zram_title">Kompresi ZRAM lz4hc</string>
+    <string name="astral_feature_zram_summary">Kompresi memori yang lebih baik untuk multitasking lebih baik</string>
+    <string name="astral_feature_input_boost_title">Peningkatan masukan</string>
+    <string name="astral_feature_input_boost_summary">Mempercepat CPU saat disentuh agar lebih responsif</string>
+    <string name="astral_feature_dex2oat_title">Kompilasi aplikasi optimal</string>
+    <string name="astral_feature_dex2oat_summary">Instalasi dan boot lebih cepat melalui penyetelan dex2oat</string>
+    <string name="astral_feature_filesystem_title">Sistem berkas optimal</string>
+    <string name="astral_feature_filesystem_summary">Beban I/O disk lebih rendah dengan opsi mount noatime</string>
+    <string name="astral_feature_font_title">Font Google Sans Flex</string>
+    <string name="astral_feature_font_summary">Font variabel modern pengganti Roboto</string>
+    <string name="astral_feature_wpa3_title">Peningkatan otomatis ke WPA3</string>
+    <string name="astral_feature_wpa3_summary">Secara otomatis meningkat ke WPA3 jika jaringan mendukung</string>
+    <string name="astral_feature_camera_zsl_title">Kamera tanpa jeda rana</string>
+    <string name="astral_feature_camera_zsl_summary">Menangkap momen secara instan tanpa jeda rana</string>
+    <string name="astral_features_feel_category">Kesan</string>
+    <string name="astral_feature_anim_speed_title">Kecepatan animasi</string>
+    <string name="astral_features_lock_category">Layar kunci</string>
+    <string name="astral_feature_clock_color_title">Warna jam</string>
+    <string name="astral_features_gestures_category">Gerakan</string>
+    <string name="astral_feature_shake_flashlight_title">Guncang untuk senter</string>
+    <string name="astral_feature_shake_flashlight_summary">Guncang ponsel dengan kuat untuk menyalakan atau mematikan senter</string>
+    <string name="astral_features_entry_title">Fitur AstralOS</string>
+    <string name="astral_features_entry_summary">Pelajari fitur yang disertakan dalam ROM ini</string>
+    <string name="astral_maintainer_title">Pemelihara</string>
+</resources>

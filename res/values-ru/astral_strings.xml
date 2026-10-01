@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">Функции AstralOS</string>
+    <string name="astral_features_toggles_category">Переключатели</string>
+    <string name="astral_feature_aod_title">Всегда активный экран (бета)</string>
+    <string name="astral_feature_aod_summary">Показывает время и уведомления без пробуждения устройства. Может вызывать перезагрузки на некоторых устройствах.</string>
+    <string name="astral_feature_night_light_title">Ночной свет</string>
+    <string name="astral_feature_night_light_summary">Уменьшает синий свет для комфортного просмотра ночью</string>
+    <string name="astral_feature_extra_dim_title">Дополнительное затемнение</string>
+    <string name="astral_feature_extra_dim_summary">Снижает яркость ниже минимального значения по умолчанию</string>
+    <string name="astral_feature_adaptive_sleep_title">Адаптивный сон</string>
+    <string name="astral_feature_adaptive_sleep_summary">Поддерживает включённый экран, пока вы на него смотрите</string>
+    <string name="astral_feature_background_blur_title">Размытие фона</string>
+    <string name="astral_feature_background_blur_summary">Включает эффекты размытия в быстрых настройках и недавних приложениях</string>
+    <string name="astral_feature_zram_title">Сжатие ZRAM lz4hc</string>
+    <string name="astral_feature_zram_summary">Улучшенное сжатие памяти для лучшей многозадачности</string>
+    <string name="astral_feature_input_boost_title">Ускорение отклика</string>
+    <string name="astral_feature_input_boost_summary">Разгоняет процессор при касании для более отзывчивой работы</string>
+    <string name="astral_feature_dex2oat_title">Оптимизированная компиляция приложений</string>
+    <string name="astral_feature_dex2oat_summary">Быстрая установка и загрузка благодаря настройке dex2oat</string>
+    <string name="astral_feature_filesystem_title">Оптимизированная файловая система</string>
+    <string name="astral_feature_filesystem_summary">Меньше нагрузки на дисковый ввод-вывод благодаря опции монтирования noatime</string>
+    <string name="astral_feature_font_title">Шрифт Google Sans Flex</string>
+    <string name="astral_feature_font_summary">Современный вариативный шрифт, заменяющий Roboto</string>
+    <string name="astral_feature_wpa3_title">Автообновление до WPA3</string>
+    <string name="astral_feature_wpa3_summary">Автоматически переходит на WPA3, если сеть это поддерживает</string>
+    <string name="astral_feature_camera_zsl_title">Камера без задержки затвора</string>
+    <string name="astral_feature_camera_zsl_summary">Снимает момент сразу, без задержки спуска затвора</string>
+    <string name="astral_features_feel_category">Ощущения</string>
+    <string name="astral_feature_anim_speed_title">Скорость анимации</string>
+    <string name="astral_features_lock_category">Экран блокировки</string>
+    <string name="astral_feature_clock_color_title">Цвет часов</string>
+    <string name="astral_features_gestures_category">Жесты</string>
+    <string name="astral_feature_shake_flashlight_title">Встряхните для фонарика</string>
+    <string name="astral_feature_shake_flashlight_summary">Крепко встряхните телефон, чтобы включить или выключить фонарик</string>
+    <string name="astral_features_entry_title">Функции AstralOS</string>
+    <string name="astral_features_entry_summary">Узнайте о функциях, входящих в эту прошивку</string>
+    <string name="astral_maintainer_title">Сопровождающий</string>
+</resources>

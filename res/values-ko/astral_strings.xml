@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">AstralOS 기능</string>
+    <string name="astral_features_toggles_category">토글</string>
+    <string name="astral_feature_aod_title">상시 표시(베타)</string>
+    <string name="astral_feature_aod_summary">기기를 깨우지 않고 시간과 알림을 확인할 수 있습니다. 일부 기기에서 재부팅이 발생할 수 있습니다.</string>
+    <string name="astral_feature_night_light_title">야간 조명</string>
+    <string name="astral_feature_night_light_summary">야간 시청을 편안하게 하기 위해 블루라이트를 줄입니다</string>
+    <string name="astral_feature_extra_dim_title">추가 어둡게</string>
+    <string name="astral_feature_extra_dim_summary">기본 최소값보다 낮게 밝기를 조절합니다</string>
+    <string name="astral_feature_adaptive_sleep_title">적응형 절전</string>
+    <string name="astral_feature_adaptive_sleep_summary">화면을 보고 있는 동안 화면을 켜둡니다</string>
+    <string name="astral_feature_background_blur_title">배경 흐림</string>
+    <string name="astral_feature_background_blur_summary">빠른 설정 및 최근 앱에서 흐림 효과를 활성화합니다</string>
+    <string name="astral_feature_zram_title">ZRAM lz4hc 압축</string>
+    <string name="astral_feature_zram_summary">더 나은 멀티태스킹을 위한 향상된 메모리 압축</string>
+    <string name="astral_feature_input_boost_title">입력 부스트</string>
+    <string name="astral_feature_input_boost_summary">터치 시 CPU를 부스트하여 더 빠른 반응 속도를 제공합니다</string>
+    <string name="astral_feature_dex2oat_title">최적화된 앱 컴파일</string>
+    <string name="astral_feature_dex2oat_summary">dex2oat 튜닝으로 앱 설치 및 부팅 시간 단축</string>
+    <string name="astral_feature_filesystem_title">최적화된 파일 시스템</string>
+    <string name="astral_feature_filesystem_summary">noatime 마운트 옵션으로 디스크 I/O 오버헤드 감소</string>
+    <string name="astral_feature_font_title">Google Sans Flex 글꼴</string>
+    <string name="astral_feature_font_summary">기본 Roboto를 대체하는 최신 가변 글꼴</string>
+    <string name="astral_feature_wpa3_title">WPA3 자동 업그레이드</string>
+    <string name="astral_feature_wpa3_summary">네트워크를 지원하는 경우 자동으로 WPA3로 업그레이드합니다</string>
+    <string name="astral_feature_camera_zsl_title">카메라 제로 셔터 레그</string>
+    <string name="astral_feature_camera_zsl_summary">셔터 지연 없이 순간을 즉시 포착합니다</string>
+    <string name="astral_features_feel_category">감각</string>
+    <string name="astral_feature_anim_speed_title">애니메이션 속도</string>
+    <string name="astral_features_lock_category">잠금 화면</string>
+    <string name="astral_feature_clock_color_title">시계 색상</string>
+    <string name="astral_features_gestures_category">제스처</string>
+    <string name="astral_feature_shake_flashlight_title">흔들기 손전등</string>
+    <string name="astral_feature_shake_flashlight_summary">전화기를 세게 흔들어 손전등을 켜거나 끕니다</string>
+    <string name="astral_features_entry_title">AstralOS 기능</string>
+    <string name="astral_features_entry_summary">이 ROM에 포함된 기능을 알아보세요</string>
+    <string name="astral_maintainer_title">관리자</string>
+</resources>

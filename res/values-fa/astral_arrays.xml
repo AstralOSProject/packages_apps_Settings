@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="astral_animation_speed_entries">
+        <item>پیش‌فرض</item>
+        <item>سریع</item>
+        <item>سریع‌تر</item>
+        <item>توربو</item>
+    </string-array>
+    <string-array name="astral_clock_color_entries">
+        <item>پس‌زمینه (پیش‌فرض)</item>
+        <item>سفید</item>
+        <item>آبی</item>
+        <item>فیروزه‌ای</item>
+        <item>سبز</item>
+        <item>زرد</item>
+        <item>نارنجی</item>
+        <item>قرمز</item>
+        <item>صورتی</item>
+        <item>بنفش</item>
+    </string-array>
+</resources>

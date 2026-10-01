@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="astral_animation_speed_entries">
+        <item>За замовчуванням</item>
+        <item>Швидка</item>
+        <item>Ще швидша</item>
+        <item>Турбо</item>
+    </string-array>
+    <string-array name="astral_clock_color_entries">
+        <item>Шпалери (за замовчуванням)</item>
+        <item>Білий</item>
+        <item>Синій</item>
+        <item>Блакитний</item>
+        <item>Зелений</item>
+        <item>Жовтий</item>
+        <item>Помаранчевий</item>
+        <item>Червоний</item>
+        <item>Рожевий</item>
+        <item>Фіолетовий</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">ميزات AstralOS</string>
+    <string name="astral_features_toggles_category">مفاتيح التبديل</string>
+    <string name="astral_feature_aod_title">الشاشة دائمًا (تجريبي)</string>
+    <string name="astral_feature_aod_summary">اعرض الوقت والإشعارات دون إيقاظ جهازك. قد يسبب إعادة تشغيل على بعض الأجهزة.</string>
+    <string name="astral_feature_night_light_title">ضوء ليلي</string>
+    <string name="astral_feature_night_light_summary">يقلل الضوء الأزرق لرؤية مريحة ليلًا</string>
+    <string name="astral_feature_extra_dim_title">تعتيم إضافي</string>
+    <string name="astral_feature_extra_dim_summary">يخفض السطوع أقل من الحد الأدنى الافتراضي</string>
+    <string name="astral_feature_adaptive_sleep_title">نوم تكيفي</string>
+    <string name="astral_feature_adaptive_sleep_summary">يُبقي الشاشة أثناء نظرك إليها</string>
+    <string name="astral_feature_background_blur_title">تمويه الخلفية</string>
+    <string name="astral_feature_background_blur_summary">يُمكّن تأثيرات التمويه في الإعدادات السريعة والتطبيقات الأخيرة</string>
+    <string name="astral_feature_zram_title">ضغط ZRAM lz4hc</string>
+    <string name="astral_feature_zram_summary">ضغط ذاكرة محسّن لمهام أفضل</string>
+    <string name="astral_feature_input_boost_title">تسريع الإدخال</string>
+    <string name="astral_feature_input_boost_summary">يسرّع المعالج عند اللمس لتجربة أكثر استجابة</string>
+    <string name="astral_feature_dex2oat_title">تجميع التطبيقات المحسّن</string>
+    <string name="astral_feature_dex2oat_summary">تثبيت وتشغيل أسرع عبر ضبط dex2oat</string>
+    <string name="astral_feature_filesystem_title">نظام ملفات محسّن</string>
+    <string name="astral_feature_filesystem_summary">تدفق إدخال/إخراج أقل للقرص بخيار الوصل noatime</string>
+    <string name="astral_feature_font_title">خط Google Sans Flex</string>
+    <string name="astral_feature_font_summary">خط متغير عصري يحل محل Roboto</string>
+    <string name="astral_feature_wpa3_title">ترقية تلقائية إلى WPA3</string>
+    <string name="astral_feature_wpa3_summary">يرتقى تلقائيًا إلى WPA3 عند دعم الشبكة لذلك</string>
+    <string name="astral_feature_camera_zsl_title">كاميرا بدون تأخر الالتقاط</string>
+    <string name="astral_feature_camera_zsl_summary">يلتقط اللحظة فورًا دون تأخر الإغلاق</string>
+    <string name="astral_features_feel_category">الإحساس</string>
+    <string name="astral_feature_anim_speed_title">سرعة الحركة</string>
+    <string name="astral_features_lock_category">شاشة القفل</string>
+    <string name="astral_feature_clock_color_title">لون الساعة</string>
+    <string name="astral_features_gestures_category">الإيماءات</string>
+    <string name="astral_feature_shake_flashlight_title">هز الهاتف لتشغيل المصباح</string>
+    <string name="astral_feature_shake_flashlight_summary">هز هاتفك بقوة لتشغيل المصباح أو إطفائه</string>
+    <string name="astral_features_entry_title">ميزات AstralOS</string>
+    <string name="astral_features_entry_summary">تعرّف على الميزات المشمولة في هذا الروم</string>
+    <string name="astral_maintainer_title">المشرف</string>
+</resources>

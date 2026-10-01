@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">Funkce AstralOS</string>
+    <string name="astral_features_toggles_category">Přepínače</string>
+    <string name="astral_feature_aod_title">Vždy zapnutá obrazovka (Beta)</string>
+    <string name="astral_feature_aod_summary">Zobrazí čas a oznámení bez probuzení zařízení. Na některých zařízeních může způsobovat restarty.</string>
+    <string name="astral_feature_night_light_title">Noční osvětlení</string>
+    <string name="astral_feature_night_light_summary">Omezuje modré světlo pro pohodlné noční prohlížení</string>
+    <string name="astral_feature_extra_dim_title">Extra ztmavení</string>
+    <string name="astral_feature_extra_dim_summary">Snižuje jas pod výchozí minimum</string>
+    <string name="astral_feature_adaptive_sleep_title">Adaptivní spánek</string>
+    <string name="astral_feature_adaptive_sleep_summary">Udržuje obrazovku zapnutou, když se na ni díváte</string>
+    <string name="astral_feature_background_blur_title">Rozostření pozadí</string>
+    <string name="astral_feature_background_blur_summary">Zapíná efekty rozostření v rychlých nastaveních a nedávných aplikacích</string>
+    <string name="astral_feature_zram_title">Komprese ZRAM lz4hc</string>
+    <string name="astral_feature_zram_summary">Lepší komprese paměti pro lepší multitasking</string>
+    <string name="astral_feature_input_boost_title">Zrychlení vstupu</string>
+    <string name="astral_feature_input_boost_summary">Při doteku zrychluje CPU pro pohotovější reakci</string>
+    <string name="astral_feature_dex2oat_title">Optimalizované kompilování aplikací</string>
+    <string name="astral_feature_dex2oat_summary">Rychlejší instalace a spuštění díky ladění dex2oat</string>
+    <string name="astral_feature_filesystem_title">Optimalizovaný souborový systém</string>
+    <string name="astral_feature_filesystem_summary">Méně zátěže diskového I/O díky připojení noatime</string>
+    <string name="astral_feature_font_title">Písmo Google Sans Flex</string>
+    <string name="astral_feature_font_summary">Moderní proměnné písmo nahrazující výchozí Roboto</string>
+    <string name="astral_feature_wpa3_title">Automatický upgrade na WPA3</string>
+    <string name="astral_feature_wpa3_summary">Automaticky přejde na WPA3, když síť podporuje</string>
+    <string name="astral_feature_camera_zsl_title">Fotoaparát bez zpoždění závěrky</string>
+    <string name="astral_feature_camera_zsl_summary">Zachytí okamžik okamžitě, bez zpoždění spouště</string>
+    <string name="astral_features_feel_category">Pocit</string>
+    <string name="astral_feature_anim_speed_title">Rychlost animací</string>
+    <string name="astral_features_lock_category">Zamknutá obrazovka</string>
+    <string name="astral_feature_clock_color_title">Barva hodin</string>
+    <string name="astral_features_gestures_category">Gesta</string>
+    <string name="astral_feature_shake_flashlight_title">Zatřesením zapnout baterku</string>
+    <string name="astral_feature_shake_flashlight_summary">Pevně zatřeste telefonem pro zapnutí nebo vypnutí baterky</string>
+    <string name="astral_features_entry_title">Funkce AstralOS</string>
+    <string name="astral_features_entry_summary">Zjistěte více o funkcích obsažených v této ROM</string>
+    <string name="astral_maintainer_title">Správce</string>
+</resources>

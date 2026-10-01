@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">AstralOS सुविधाएँ</string>
+    <string name="astral_features_toggles_category">टॉगल</string>
+    <string name="astral_feature_aod_title">ऑलवेज-ऑन डिस्प्ले (बीटा)</string>
+    <string name="astral_feature_aod_summary">डिवाइस को जगाए बिना समय और सूचनाएँ देखें। कुछ डिवाइस पर पुनरारंभ हो सकता है।</string>
+    <string name="astral_feature_night_light_title">नाइट लाइट</string>
+    <string name="astral_feature_night_light_summary">आरामदायक रात्रिदृश्य के लिए नीली रोशनी कम करती है</string>
+    <string name="astral_feature_extra_dim_title">अतिरिक्त डिम</string>
+    <string name="astral_feature_extra_dim_summary">डिफ़ॉल्ट न्यूनतम से भी कम चमक</string>
+    <string name="astral_feature_adaptive_sleep_title">अनुकूली नींद</string>
+    <string name="astral_feature_adaptive_sleep_summary">आपके देखते समय स्क्रीन चालू रखती है</string>
+    <string name="astral_feature_background_blur_title">बैकग्राउंड ब्लर</string>
+    <string name="astral_feature_background_blur_summary">क्विक सेटिंग्स और हाल के ऐप्स में ब्लर प्रभाव सक्षम करता है</string>
+    <string name="astral_feature_zram_title">ZRAM lz4hc संपीड़न</string>
+    <string name="astral_feature_zram_summary">बेहतर मल्टीटास्किंग के लिए बेहतर मेमोरी संपीड़न</string>
+    <string name="astral_feature_input_boost_title">इनपुट बूस्ट</string>
+    <string name="astral_feature_input_boost_summary">तेज़ अनुभव के लिए स्पर्श पर CPU बढ़ाता है</string>
+    <string name="astral_feature_dex2oat_title">अनुकूलित ऐप संकलन</string>
+    <string name="astral_feature_dex2oat_summary">dex2oat ट्यूनिंग से तेज़ ऐप इंस्टॉल और बूट समय</string>
+    <string name="astral_feature_filesystem_title">अनुकूलित फ़ाइल सिस्टम</string>
+    <string name="astral_feature_filesystem_summary">noatime माउंट विकल्प से कम डिस्क I/O ओवरहेड</string>
+    <string name="astral_feature_font_title">Google Sans Flex फ़ॉन्ट</string>
+    <string name="astral_feature_font_summary">डिफ़ॉल्ट Roboto की जगह आधुनिक वैरिएबल फ़ॉन्ट</string>
+    <string name="astral_feature_wpa3_title">WPA3 स्वतः अपग्रेड</string>
+    <string name="astral_feature_wpa3_summary">नेटवर्क समर्थित होने पर स्वचालित रूप से WPA3 पर अपग्रेड</string>
+    <string name="astral_feature_camera_zsl_title">कैमरा ज़ीरो शटर लैग</string>
+    <string name="astral_feature_camera_zsl_summary">बिना शटर विलंब के क्षण को तुरंत कैप्चर करता है</string>
+    <string name="astral_features_feel_category">अहसास</string>
+    <string name="astral_feature_anim_speed_title">एनिमेशन गति</string>
+    <string name="astral_features_lock_category">लॉक स्क्रीन</string>
+    <string name="astral_feature_clock_color_title">घड़ी का रंग</string>
+    <string name="astral_features_gestures_category">जेस्चर</string>
+    <string name="astral_feature_shake_flashlight_title">फ़्लैशलाइट के लिए हिलाएँ</string>
+    <string name="astral_feature_shake_flashlight_summary">फ़्लैशलाइट चालू या बंद करने के लिए फ़ोन को ज़ोर से हिलाएँ</string>
+    <string name="astral_features_entry_title">AstralOS सुविधाएँ</string>
+    <string name="astral_features_entry_summary">इस ROM में शामिल सुविधाओं के बारे में जानें</string>
+    <string name="astral_maintainer_title">मेंटेनर</string>
+</resources>

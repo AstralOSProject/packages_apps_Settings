@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">ویژگی‌های AstralOS</string>
+    <string name="astral_features_toggles_category">کلیدها</string>
+    <string name="astral_feature_aod_title">همیشه روشن (آزمایشی)</string>
+    <string name="astral_feature_aod_summary">زمان و اعلان‌ها را بدون بیدار کردن دستگاه ببینید. ممکن است در برخی دستگاه‌ها باعث راه‌اندازی مجدد شود.</string>
+    <string name="astral_feature_night_light_title">نور شب</string>
+    <string name="astral_feature_night_light_summary">نور آبی را برای دید راحت شبانه کاهش می‌دهد</string>
+    <string name="astral_feature_extra_dim_title">تیرگی اضافی</string>
+    <string name="astral_feature_extra_dim_summary">روشنایی را کمتر از حداقل پیش‌فرض کاهش می‌دهد</string>
+    <string name="astral_feature_adaptive_sleep_title">خواب تطبیقی</string>
+    <string name="astral_feature_adaptive_sleep_summary">هنگام نگاه کردن به صفحه، آن را روشن نگه می‌دارد</string>
+    <string name="astral_feature_background_blur_title">محو پس‌زمینه</string>
+    <string name="astral_feature_background_blur_summary">جلوه‌های محو را در تنظیمات سریع و برنامه‌های اخیر فعال می‌کند</string>
+    <string name="astral_feature_zram_title">فشرده‌سازی ZRAM lz4hc</string>
+    <string name="astral_feature_zram_summary">فشرده‌سازی حافظه بهتر برای چندکاری بهتر</string>
+    <string name="astral_feature_input_boost_title">تقویت ورودی</string>
+    <string name="astral_feature_input_boost_summary">هنگام لمس پردازنده را برای واکنش سریع‌تر تقویت می‌کند</string>
+    <string name="astral_feature_dex2oat_title">کامپایل بهینه برنامه‌ها</string>
+    <string name="astral_feature_dex2oat_summary">نصب و راه‌اندازی سریع‌تر با تنظیم dex2oat</string>
+    <string name="astral_feature_filesystem_title">سیستم‌فایل بهینه</string>
+    <string name="astral_feature_filesystem_summary">سرهای دیسک کمتر با گزینهٔ mount با noatime</string>
+    <string name="astral_feature_font_title">قلم Google Sans Flex</string>
+    <string name="astral_feature_font_summary">قلم متغیر مدرن که جایگزین Roboto می‌شود</string>
+    <string name="astral_feature_wpa3_title">ارتقای خودکار به WPA3</string>
+    <string name="astral_feature_wpa3_summary">در صورت پشتیبانی شبکه، خودکار به WPA3 ارتقا می‌دهد</string>
+    <string name="astral_feature_camera_zsl_title">دوربین بدون تأخیر شاتر</string>
+    <string name="astral_feature_camera_zsl_summary">لحظه را بدون تأخیر عکاسی ثبت می‌کند</string>
+    <string name="astral_features_feel_category">احساس</string>
+    <string name="astral_feature_anim_speed_title">سرعت انیمیشن</string>
+    <string name="astral_features_lock_category">صفحهٔ قفل</string>
+    <string name="astral_feature_clock_color_title">رنگ ساعت</string>
+    <string name="astral_features_gestures_category">حرکات</string>
+    <string name="astral_feature_shake_flashlight_title">تکان دادن برای چراغ قوه</string>
+    <string name="astral_feature_shake_flashlight_summary">برای روشن یا خاموش کردن چراغ قوه، گوشی را محکم تکان دهید</string>
+    <string name="astral_features_entry_title">ویژگی‌های AstralOS</string>
+    <string name="astral_features_entry_summary">با ویژگی‌های این ROM آشنا شوید</string>
+    <string name="astral_maintainer_title">نگهدارنده</string>
+</resources>

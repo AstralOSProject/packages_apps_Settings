@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">AstralOS 功能</string>
+    <string name="astral_features_toggles_category">开关</string>
+    <string name="astral_feature_aod_title">息屏显示 (Beta)</string>
+    <string name="astral_feature_aod_summary">无需唤醒设备即可查看时间和通知。在某些设备上可能导致重启。</string>
+    <string name="astral_feature_night_light_title">夜灯</string>
+    <string name="astral_feature_night_light_summary">减少蓝光，让夜间观看更舒适</string>
+    <string name="astral_feature_extra_dim_title">额外变暗</string>
+    <string name="astral_feature_extra_dim_summary">将亮度降低到默认最低值以下</string>
+    <string name="astral_feature_adaptive_sleep_title">自适应休眠</string>
+    <string name="astral_feature_adaptive_sleep_summary">当你注视屏幕时保持屏幕常亮</string>
+    <string name="astral_feature_background_blur_title">背景模糊</string>
+    <string name="astral_feature_background_blur_summary">在快捷设置和最近使用的应用中启用模糊效果</string>
+    <string name="astral_feature_zram_title">ZRAM lz4hc 压缩</string>
+    <string name="astral_feature_zram_summary">改进的内存压缩，带来更好的多任务体验</string>
+    <string name="astral_feature_input_boost_title">触控加速</string>
+    <string name="astral_feature_input_boost_summary">触摸时提升 CPU 频率，带来更迅捷的响应</string>
+    <string name="astral_feature_dex2oat_title">优化的应用编译</string>
+    <string name="astral_feature_dex2oat_summary">通过 dex2oat 调优加快应用安装和启动速度</string>
+    <string name="astral_feature_filesystem_title">优化的文件系统</string>
+    <string name="astral_feature_filesystem_summary">使用 noatime 挂载选项减少磁盘 I/O 开销</string>
+    <string name="astral_feature_font_title">Google Sans Flex 字体</string>
+    <string name="astral_feature_font_summary">取代默认 Roboto 的现代可变字体</string>
+    <string name="astral_feature_wpa3_title">WPA3 自动升级</string>
+    <string name="astral_feature_wpa3_summary">在网络支持时自动升级到 WPA3</string>
+    <string name="astral_feature_camera_zsl_title">相机零快门延迟</string>
+    <string name="astral_feature_camera_zsl_summary">瞬间捕捉画面，无快门延迟</string>
+    <string name="astral_features_feel_category">手感</string>
+    <string name="astral_feature_anim_speed_title">动画速度</string>
+    <string name="astral_features_lock_category">锁屏</string>
+    <string name="astral_feature_clock_color_title">时钟颜色</string>
+    <string name="astral_features_gestures_category">手势</string>
+    <string name="astral_feature_shake_flashlight_title">摇一摇开手电筒</string>
+    <string name="astral_feature_shake_flashlight_summary">用力摇动手机即可开关手电筒</string>
+    <string name="astral_features_entry_title">AstralOS 功能</string>
+    <string name="astral_features_entry_summary">了解此 ROM 包含的功能</string>
+    <string name="astral_maintainer_title">维护者</string>
+</resources>

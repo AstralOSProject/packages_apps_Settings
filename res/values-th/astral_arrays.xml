@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="astral_animation_speed_entries">
+        <item>เริ่มต้น</item>
+        <item>เร็ว</item>
+        <item>เร็วขึ้น</item>
+        <item>เทอร์โบ</item>
+    </string-array>
+    <string-array name="astral_clock_color_entries">
+        <item>ภาพพื้นหลัง (เริ่มต้น)</item>
+        <item>ขาว</item>
+        <item>น้ำเงิน</item>
+        <item>ไซแอน</item>
+        <item>เขียว</item>
+        <item>เหลือง</item>
+        <item>ส้ม</item>
+        <item>แดง</item>
+        <item>ชมพู</item>
+        <item>ม่วง</item>
+    </string-array>
+</resources>

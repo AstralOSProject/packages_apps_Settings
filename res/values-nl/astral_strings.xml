@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">AstralOS-functies</string>
+    <string name="astral_features_toggles_category">Schakelaars</string>
+    <string name="astral_feature_aod_title">Always-on-display (Beta)</string>
+    <string name="astral_feature_aod_summary">Bekijk tijd en meldingen zonder je apparaat wakker te maken. Kan op sommige apparaten herstarten veroorzaken.</string>
+    <string name="astral_feature_night_light_title">Nachtlicht</string>
+    <string name="astral_feature_night_light_summary">Vermindert blauw licht voor comfortabel nachtelijk kijken</string>
+    <string name="astral_feature_extra_dim_title">Extra dimmen</string>
+    <string name="astral_feature_extra_dim_summary">Verlaagt de helderheid voorbij het standaardminimum</string>
+    <string name="astral_feature_adaptive_sleep_title">Adaptieve slaap</string>
+    <string name="astral_feature_adaptive_sleep_summary">Houdt het scherm aan terwijl je ernaar kijkt</string>
+    <string name="astral_feature_background_blur_title">Achtergrondonscherpte</string>
+    <string name="astral_feature_background_blur_summary">Schakelt onscherpe-effecten in bij snelinstellingen en recente apps</string>
+    <string name="astral_feature_zram_title">ZRAM-lz4hc-compressie</string>
+    <string name="astral_feature_zram_summary">Betere geheugencompressie voor betere multitasking</string>
+    <string name="astral_feature_input_boost_title">Invoer-boost</string>
+    <string name="astral_feature_input_boost_summary">Versnelt de CPU bij aanraking voor een snellere reactie</string>
+    <string name="astral_feature_dex2oat_title">Geoptimaliseerde app-compilatie</string>
+    <string name="astral_feature_dex2oat_summary">Snellere app-installatie en opstarttijden dankzij dex2oat-afstemming</string>
+    <string name="astral_feature_filesystem_title">Geoptimaliseerd bestandssysteem</string>
+    <string name="astral_feature_filesystem_summary">Minder schijf-I/O-overhead met de mount-optie noatime</string>
+    <string name="astral_feature_font_title">Google Sans Flex-lettertype</string>
+    <string name="astral_feature_font_summary">Modern variabel lettertype dat Roboto vervangt</string>
+    <string name="astral_feature_wpa3_title">Automatische upgrade naar WPA3</string>
+    <string name="astral_feature_wpa3_summary">Wordt automatisch geüpgraded naar WPA3 als het netwerk dit ondersteunt</string>
+    <string name="astral_feature_camera_zsl_title">Camera zonder sluitervertraging</string>
+    <string name="astral_feature_camera_zsl_summary">Legt het moment direct vast zonder sluitervertraging</string>
+    <string name="astral_features_feel_category">Gevoel</string>
+    <string name="astral_feature_anim_speed_title">Animatiesnelheid</string>
+    <string name="astral_features_lock_category">Vergrendelscherm</string>
+    <string name="astral_feature_clock_color_title">Klokkleur</string>
+    <string name="astral_features_gestures_category">Gebaren</string>
+    <string name="astral_feature_shake_flashlight_title">Schudden voor zaklamp</string>
+    <string name="astral_feature_shake_flashlight_summary">Schud je telefoon stevig om de zaklamp aan of uit te zetten</string>
+    <string name="astral_features_entry_title">AstralOS-functies</string>
+    <string name="astral_features_entry_summary">Lees over de functies in deze ROM</string>
+    <string name="astral_maintainer_title">Onderhouder</string>
+</resources>

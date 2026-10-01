@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">AstralOS Özellikleri</string>
+    <string name="astral_features_toggles_category">Anahtarlar</string>
+    <string name="astral_feature_aod_title">Her Zaman Açık Ekran (Beta)</string>
+    <string name="astral_feature_aod_summary">Cihazınızı uyandırmadan saati ve bildirimleri görün. Bazı cihazlarda yeniden başlatmalara neden olabilir.</string>
+    <string name="astral_feature_night_light_title">Gece ışığı</string>
+    <string name="astral_feature_night_light_summary">Rahat bir gece görüşü için mavi ışığı azaltır</string>
+    <string name="astral_feature_extra_dim_title">Ekstra karartma</string>
+    <string name="astral_feature_extra_dim_summary">Parlaklığı varsayılanın altına düşürür</string>
+    <string name="astral_feature_adaptive_sleep_title">Uyarlanabilir uyku</string>
+    <string name="astral_feature_adaptive_sleep_summary">Ona bakarken ekranı açık tutar</string>
+    <string name="astral_feature_background_blur_title">Arka plan bulanıklığı</string>
+    <string name="astral_feature_background_blur_summary">Hızlı ayarlarda ve son uygulamalarda bulanıklık efektlerini etkinleştirir</string>
+    <string name="astral_feature_zram_title">ZRAM lz4hc Sıkıştırma</string>
+    <string name="astral_feature_zram_summary">Daha iyi çoklu görev için geliştirilmiş bellek sıkıştırması</string>
+    <string name="astral_feature_input_boost_title">Girdi hızlandırma</string>
+    <string name="astral_feature_input_boost_summary">Daha duyarlı bir deneyim için dokunuşta CPU\'yu hızlandırır</string>
+    <string name="astral_feature_dex2oat_title">Optimize uygulama derlemesi</string>
+    <string name="astral_feature_dex2oat_summary">dex2oat ayarıyla daha hızlı uygulama kurulumu ve açılış</string>
+    <string name="astral_feature_filesystem_title">Optimize dosya sistemi</string>
+    <string name="astral_feature_filesystem_summary">noatime bağlama seçeneğiyle daha az disk G/Ç yükü</string>
+    <string name="astral_feature_font_title">Google Sans Flex yazı tipi</string>
+    <string name="astral_feature_font_summary">Varsayılan Roboto\'nun yerini alan modern değişken yazı tipi</string>
+    <string name="astral_feature_wpa3_title">WPA3 otomatik yükseltme</string>
+    <string name="astral_feature_wpa3_summary">Ağ desteklediğinde otomatik olarak WPA3\'e yükselir</string>
+    <string name="astral_feature_camera_zsl_title">Kamera sıfır deklanşör gecikmesi</string>
+    <string name="astral_feature_camera_zsl_summary">Anı, deklanşör gecikmesi olmadan anında yakalar</string>
+    <string name="astral_features_feel_category">His</string>
+    <string name="astral_feature_anim_speed_title">Animasyon hızı</string>
+    <string name="astral_features_lock_category">Kilit ekranı</string>
+    <string name="astral_feature_clock_color_title">Saat rengi</string>
+    <string name="astral_features_gestures_category">Hareketler</string>
+    <string name="astral_feature_shake_flashlight_title">Fener için salla</string>
+    <string name="astral_feature_shake_flashlight_summary">Feneri açmak veya kapatmak için telefonunuzu sıkıca sallayın</string>
+    <string name="astral_features_entry_title">AstralOS Özellikleri</string>
+    <string name="astral_features_entry_summary">Bu ROM\'daki özellikler hakkında bilgi edinin</string>
+    <string name="astral_maintainer_title">Bakımcı</string>
+</resources>

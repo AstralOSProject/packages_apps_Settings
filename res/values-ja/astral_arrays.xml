@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="astral_animation_speed_entries">
+        <item>標準</item>
+        <item>高速</item>
+        <item>さらに高速</item>
+        <item>ターボ</item>
+    </string-array>
+    <string-array name="astral_clock_color_entries">
+        <item>壁紙（デフォルト）</item>
+        <item>白</item>
+        <item>青</item>
+        <item>シアン</item>
+        <item>緑</item>
+        <item>黄色</item>
+        <item>オレンジ</item>
+        <item>赤</item>
+        <item>ピンク</item>
+        <item>紫</item>
+    </string-array>
+</resources>

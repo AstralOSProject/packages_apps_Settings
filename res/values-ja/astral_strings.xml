@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">AstralOSの機能</string>
+    <string name="astral_features_toggles_category">トグル</string>
+    <string name="astral_feature_aod_title">常時表示 (ベータ)</string>
+    <string name="astral_feature_aod_summary">端末を起動せずに時刻と通知を確認できます。端末によっては再起動が発生する場合があります。</string>
+    <string name="astral_feature_night_light_title">ナイトライト</string>
+    <string name="astral_feature_night_light_summary">快適な夜間の視聴のためにブルーライトを減らします</string>
+    <string name="astral_feature_extra_dim_title">追加の暗さ</string>
+    <string name="astral_feature_extra_dim_summary">デフォルトの最小輝度よりさらに明るさを下げます</string>
+    <string name="astral_feature_adaptive_sleep_title">適応スリープ</string>
+    <string name="astral_feature_adaptive_sleep_summary">画面を見ている間はスクリーンをオンに保ちます</string>
+    <string name="astral_feature_background_blur_title">背景ブラー</string>
+    <string name="astral_feature_background_blur_summary">クイック設定と最近のアプリでブラー効果を有効にします</string>
+    <string name="astral_feature_zram_title">ZRAM lz4hc 圧縮</string>
+    <string name="astral_feature_zram_summary">マルチタスクを向上させる改善されたメモリ圧縮</string>
+    <string name="astral_feature_input_boost_title">入力ブースト</string>
+    <string name="astral_feature_input_boost_summary">タッチ時にCPUをブーストし、より応答の良い体験を提供します</string>
+    <string name="astral_feature_dex2oat_title">最適化されたアプリコンパイル</string>
+    <string name="astral_feature_dex2oat_summary">dex2oatのチューニングによりアプリのインストールと起動を高速化</string>
+    <string name="astral_feature_filesystem_title">最適化されたファイルシステム</string>
+    <string name="astral_feature_filesystem_summary">noatimeマウントオプションでディスクI/Oのオーバーヘッドを削減</string>
+    <string name="astral_feature_font_title">Google Sans Flexフォント</string>
+    <string name="astral_feature_font_summary">デフォルトのRobotoに置き換えるモダンな可変フォント</string>
+    <string name="astral_feature_wpa3_title">WPA3自動アップグレード</string>
+    <string name="astral_feature_wpa3_summary">ネットワークが対応している場合、自動的にWPA3にアップグレードします</string>
+    <string name="astral_feature_camera_zsl_title">カメラ ゼロシャッターラグ</string>
+    <string name="astral_feature_camera_zsl_summary">シャッターの遅延なしで瞬時に撮影します</string>
+    <string name="astral_features_feel_category">手触り</string>
+    <string name="astral_feature_anim_speed_title">アニメーション速度</string>
+    <string name="astral_features_lock_category">ロック画面</string>
+    <string name="astral_feature_clock_color_title">時計の色</string>
+    <string name="astral_features_gestures_category">ジェスチャー</string>
+    <string name="astral_feature_shake_flashlight_title">振って懐中電灯</string>
+    <string name="astral_feature_shake_flashlight_summary">スマホをしっかり振って懐中電灯をオン・オフします</string>
+    <string name="astral_features_entry_title">AstralOSの機能</string>
+    <string name="astral_features_entry_summary">このROMに含まれる機能について確認できます</string>
+    <string name="astral_maintainer_title">メンテナー</string>
+</resources>

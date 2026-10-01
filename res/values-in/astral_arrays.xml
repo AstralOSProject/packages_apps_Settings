@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="astral_animation_speed_entries">
+        <item>Bawaan</item>
+        <item>Cepat</item>
+        <item>Lebih cepat</item>
+        <item>Turbo</item>
+    </string-array>
+    <string-array name="astral_clock_color_entries">
+        <item>Wallpaper (bawaan)</item>
+        <item>Putih</item>
+        <item>Biru</item>
+        <item>Toska</item>
+        <item>Hijau</item>
+        <item>Kuning</item>
+        <item>Oranye</item>
+        <item>Merah</item>
+        <item>Merah muda</item>
+        <item>Ungu</item>
+    </string-array>
+</resources>

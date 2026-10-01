@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="astral_animation_speed_entries">
+        <item>默认</item>
+        <item>快速</item>
+        <item>更快</item>
+        <item>极速</item>
+    </string-array>
+    <string-array name="astral_clock_color_entries">
+        <item>壁纸（默认）</item>
+        <item>白色</item>
+        <item>蓝色</item>
+        <item>青色</item>
+        <item>绿色</item>
+        <item>黄色</item>
+        <item>橙色</item>
+        <item>红色</item>
+        <item>粉色</item>
+        <item>紫色</item>
+    </string-array>
+</resources>

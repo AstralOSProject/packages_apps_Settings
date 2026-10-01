@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astral_features_title">Funcții AstralOS</string>
+    <string name="astral_features_toggles_category">Comutatoare</string>
+    <string name="astral_feature_aod_title">Afișaj întotdeauna pornit (Beta)</string>
+    <string name="astral_feature_aod_summary">Vezi ora și notificările fără a-ți trezi dispozitivul. Poate cauza reporniri pe unele dispozitive.</string>
+    <string name="astral_feature_night_light_title">Lumină de noapte</string>
+    <string name="astral_feature_night_light_summary">Reduce lumina albastră pentru o vizualizare nocturnă confortabilă</string>
+    <string name="astral_feature_extra_dim_title">Dimuare suplimentară</string>
+    <string name="astral_feature_extra_dim_summary">Scade luminozitatea sub minimul implicit</string>
+    <string name="astral_feature_adaptive_sleep_title">Somn adaptiv</string>
+    <string name="astral_feature_adaptive_sleep_summary">Ține ecranul pornit în timp ce te uiți la el</string>
+    <string name="astral_feature_background_blur_title">Estompare fundal</string>
+    <string name="astral_feature_background_blur_summary">Activează efecte de estompare în setările rapide și aplicațiile recente</string>
+    <string name="astral_feature_zram_title">Compresie ZRAM lz4hc</string>
+    <string name="astral_feature_zram_summary">Compresie îmbunătățită a memoriei pentru o mai bună multitasking</string>
+    <string name="astral_feature_input_boost_title">Boost la intrare</string>
+    <string name="astral_feature_input_boost_summary">Mărește viteza CPU la atingere pentru o experiență mai rapidă</string>
+    <string name="astral_feature_dex2oat_title">Compilare optimizată a aplicațiilor</string>
+    <string name="astral_feature_dex2oat_summary">Instalare și pornire mai rapide prin optimizarea dex2oat</string>
+    <string name="astral_feature_filesystem_title">Sistem de fișiere optimizat</string>
+    <string name="astral_feature_filesystem_summary">Mai puțin timp de I/O pe disc cu opțiunea de montare noatime</string>
+    <string name="astral_feature_font_title">Font Google Sans Flex</string>
+    <string name="astral_feature_font_summary">Font variabil modern care înlocuiește Roboto</string>
+    <string name="astral_feature_wpa3_title">Actualizare automată la WPA3</string>
+    <string name="astral_feature_wpa3_summary">Se actualizează automat la WPA3 când rețeaua acceptă asta</string>
+    <string name="astral_feature_camera_zsl_title">Cameră fără întârziere a obturatorului</string>
+    <string name="astral_feature_camera_zsl_summary">Prinde momentul instantaneu, fără întârziere la declanșare</string>
+    <string name="astral_features_feel_category">Senzație</string>
+    <string name="astral_feature_anim_speed_title">Viteza animațiilor</string>
+    <string name="astral_features_lock_category">Ecran de blocare</string>
+    <string name="astral_feature_clock_color_title">Culoarea ceasului</string>
+    <string name="astral_features_gestures_category">Gesturi</string>
+    <string name="astral_feature_shake_flashlight_title">Scutură pentru lanternă</string>
+    <string name="astral_feature_shake_flashlight_summary">Scutură ferm telefonul pentru a porni sau opri lanterna</string>
+    <string name="astral_features_entry_title">Funcții AstralOS</string>
+    <string name="astral_features_entry_summary">Află despre funcțiile incluse în acest ROM</string>
+    <string name="astral_maintainer_title">Responsabil</string>
+</resources>
