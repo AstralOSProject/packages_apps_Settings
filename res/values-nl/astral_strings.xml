@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">AstralOS-functies</string>
     <string name="astral_features_entry_summary">Lees over de functies in deze ROM</string>
     <string name="astral_maintainer_title">Onderhouder</string>
+    <string name="astral_feature_clock_font_title">Lettertype van de klok</string>
 </resources>

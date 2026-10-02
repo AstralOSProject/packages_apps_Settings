@@ -59,6 +59,15 @@
             android:entryValues="@array/astral_clock_color_values"
             android:defaultValue=""
             app:controller="com.android.settings.astral.LockscreenClockColorController"/>
+
+        <ListPreference
+            android:key="feature_clock_font"
+            android:title="@string/astral_feature_clock_font_title"
+            android:summary="%s"
+            android:entries="@array/astral_clock_font_entries"
+            android:entryValues="@array/astral_clock_font_values"
+            android:defaultValue=""
+            app:controller="com.android.settings.astral.ClockFontController"/>
     </PreferenceCategory>
 
     <PreferenceCategory

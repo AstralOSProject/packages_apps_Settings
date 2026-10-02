@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">Fitur AstralOS</string>
     <string name="astral_features_entry_summary">Pelajari fitur yang disertakan dalam ROM ini</string>
     <string name="astral_maintainer_title">Pemelihara</string>
+    <string name="astral_feature_clock_font_title">Font jam</string>
 </resources>

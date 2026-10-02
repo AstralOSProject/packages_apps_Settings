@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">Функції AstralOS</string>
     <string name="astral_features_entry_summary">Дізнайтеся про функції, що входять у цю прошивку</string>
     <string name="astral_maintainer_title">Супровідник</string>
+    <string name="astral_feature_clock_font_title">Шрифт годинника</string>
 </resources>

@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">Fonctionnalités AstralOS</string>
     <string name="astral_features_entry_summary">Découvrez les fonctionnalités incluses dans cette ROM</string>
     <string name="astral_maintainer_title">Mainteneur</string>
+    <string name="astral_feature_clock_font_title">Police de l\'horloge</string>
 </resources>

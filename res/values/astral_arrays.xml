@@ -39,4 +39,22 @@
         <item>#FFE91E63</item>
         <item>#FF9C27B0</item>
     </string-array>
+
+    <string-array name="astral_clock_font_entries">
+        <item>System default</item>
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>Cursive</item>
+        <item>Casual</item>
+        <item>Roboto Flex</item>
+    </string-array>
+
+    <string-array name="astral_clock_font_values">
+        <item></item>
+        <item>sans-serif</item>
+        <item>serif</item>
+        <item>cursive</item>
+        <item>casual</item>
+        <item>roboto-flex</item>
+    </string-array>
 </resources>

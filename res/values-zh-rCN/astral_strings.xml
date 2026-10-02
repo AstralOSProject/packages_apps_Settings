@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">AstralOS 功能</string>
     <string name="astral_features_entry_summary">了解此 ROM 包含的功能</string>
     <string name="astral_maintainer_title">维护者</string>
+    <string name="astral_feature_clock_font_title">时钟字体</string>
 </resources>

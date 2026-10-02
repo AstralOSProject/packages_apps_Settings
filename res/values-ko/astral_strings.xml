@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">AstralOS 기능</string>
     <string name="astral_features_entry_summary">이 ROM에 포함된 기능을 알아보세요</string>
     <string name="astral_maintainer_title">관리자</string>
+    <string name="astral_feature_clock_font_title">시계 글꼴</string>
 </resources>

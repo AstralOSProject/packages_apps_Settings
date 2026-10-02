@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">Funkcje AstralOS</string>
     <string name="astral_features_entry_summary">Poznaj funkcje zawarte w tym ROM-ie</string>
     <string name="astral_maintainer_title">Opiekun</string>
+    <string name="astral_feature_clock_font_title">Czcionka zegara</string>
 </resources>

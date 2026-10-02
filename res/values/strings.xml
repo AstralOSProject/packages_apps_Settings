@@ -13970,6 +13970,7 @@
     <string name="astral_feature_anim_speed_title">Animation Speed</string>
     <string name="astral_features_lock_category">Lock Screen</string>
     <string name="astral_feature_clock_color_title">Clock Color</string>
+    <string name="astral_feature_clock_font_title">Clock Font</string>
 
     <string name="astral_features_gestures_category">Gestures</string>
     <string name="astral_feature_shake_flashlight_title">Shake for Flashlight</string>

@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">AstralOS Özellikleri</string>
     <string name="astral_features_entry_summary">Bu ROM\'daki özellikler hakkında bilgi edinin</string>
     <string name="astral_maintainer_title">Bakımcı</string>
+    <string name="astral_feature_clock_font_title">Saat yazı tipi</string>
 </resources>

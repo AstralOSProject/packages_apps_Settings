@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">AstralOS सुविधाएँ</string>
     <string name="astral_features_entry_summary">इस ROM में शामिल सुविधाओं के बारे में जानें</string>
     <string name="astral_maintainer_title">मेंटेनर</string>
+    <string name="astral_feature_clock_font_title">घड़ी फ़ॉन्ट</string>
 </resources>

@@ -18,4 +18,12 @@
         <item>Merah muda</item>
         <item>Ungu</item>
     </string-array>
+    <string-array name="astral_clock_font_entries">
+        <item>Bawaan sistem</item>
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>Cursive</item>
+        <item>Casual</item>
+        <item>Roboto Flex</item>
+    </string-array>
 </resources>

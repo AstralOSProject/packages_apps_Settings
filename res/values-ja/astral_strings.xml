@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">AstralOSの機能</string>
     <string name="astral_features_entry_summary">このROMに含まれる機能について確認できます</string>
     <string name="astral_maintainer_title">メンテナー</string>
+    <string name="astral_feature_clock_font_title">時計のフォント</string>
 </resources>

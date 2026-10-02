@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">AstralOS-Funktionen</string>
     <string name="astral_features_entry_summary">Erfahre mehr über die in dieser ROM enthaltenen Funktionen</string>
     <string name="astral_maintainer_title">Betreuer</string>
+    <string name="astral_feature_clock_font_title">Schriftart der Uhr</string>
 </resources>

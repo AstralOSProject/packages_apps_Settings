@@ -18,4 +18,12 @@
         <item>गुलाबी</item>
         <item>बैंगनी</item>
     </string-array>
+    <string-array name="astral_clock_font_entries">
+        <item>सिस्टम डिफ़ॉल्ट</item>
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>Cursive</item>
+        <item>Casual</item>
+        <item>Roboto Flex</item>
+    </string-array>
 </resources>

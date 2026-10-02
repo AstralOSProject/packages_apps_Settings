@@ -36,4 +36,5 @@
     <string name="astral_features_entry_title">AstralOS-funkciók</string>
     <string name="astral_features_entry_summary">Ismerd meg a ROM-ban található funkciókat</string>
     <string name="astral_maintainer_title">Karbantartó</string>
+    <string name="astral_feature_clock_font_title">Óra betűtípusa</string>
 </resources>
