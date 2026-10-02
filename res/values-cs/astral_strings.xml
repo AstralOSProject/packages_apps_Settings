@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">Zjistěte více o funkcích obsažených v této ROM</string>
     <string name="astral_maintainer_title">Správce</string>
     <string name="astral_feature_clock_font_title">Písmo hodin</string>
+    <string name="astral_feature_three_finger_screenshot_title">Snímek třemi prsty</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Přejeďte dolů třemi prsty pro pořízení snímku obrazovky</string>
 </resources>

@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">Дізнайтеся про функції, що входять у цю прошивку</string>
     <string name="astral_maintainer_title">Супровідник</string>
     <string name="astral_feature_clock_font_title">Шрифт годинника</string>
+    <string name="astral_feature_three_finger_screenshot_title">Знімок трьома пальцями</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Проведіть униз трьома пальцями, щоб зробити знімок екрана</string>
 </resources>

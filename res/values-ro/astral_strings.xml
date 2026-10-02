@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">Află despre funcțiile incluse în acest ROM</string>
     <string name="astral_maintainer_title">Responsabil</string>
     <string name="astral_feature_clock_font_title">Fontul ceasului</string>
+    <string name="astral_feature_three_finger_screenshot_title">Captură cu trei degete</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Glisați în jos cu trei degete pentru a face o captură</string>
 </resources>

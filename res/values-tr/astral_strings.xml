@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">Bu ROM\'daki özellikler hakkında bilgi edinin</string>
     <string name="astral_maintainer_title">Bakımcı</string>
     <string name="astral_feature_clock_font_title">Saat yazı tipi</string>
+    <string name="astral_feature_three_finger_screenshot_title">Üç parmakla ekran görüntüsü</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Ekran görüntüsü almak için üç parmakla aşağı kaydırın</string>
 </resources>

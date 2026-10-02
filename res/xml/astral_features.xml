@@ -79,6 +79,12 @@
             android:title="@string/astral_feature_shake_flashlight_title"
             android:summary="@string/astral_feature_shake_flashlight_summary"
             app:controller="com.android.settings.astral.ShakeFlashlightController"/>
+
+        <SwitchPreferenceCompat
+            android:key="feature_three_finger_screenshot"
+            android:title="@string/astral_feature_three_finger_screenshot_title"
+            android:summary="@string/astral_feature_three_finger_screenshot_summary"
+            app:controller="com.android.settings.astral.ThreeFingerScreenshotController"/>
     </PreferenceCategory>
 
 </PreferenceScreen>

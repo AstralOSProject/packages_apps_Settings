@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">Pelajari fitur yang disertakan dalam ROM ini</string>
     <string name="astral_maintainer_title">Pemelihara</string>
     <string name="astral_feature_clock_font_title">Font jam</string>
+    <string name="astral_feature_three_finger_screenshot_title">Jepretan tiga jari</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Geser ke bawah dengan tiga jari untuk mengambil jepretan layar</string>
 </resources>

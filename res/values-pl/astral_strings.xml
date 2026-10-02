@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">Poznaj funkcje zawarte w tym ROM-ie</string>
     <string name="astral_maintainer_title">Opiekun</string>
     <string name="astral_feature_clock_font_title">Czcionka zegara</string>
+    <string name="astral_feature_three_finger_screenshot_title">Zrzut trzema palcami</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Przesuń w dół trzema palcami, aby zrobić zrzut ekranu</string>
 </resources>

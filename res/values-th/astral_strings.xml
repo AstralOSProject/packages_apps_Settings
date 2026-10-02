@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">เรียนรู้เกี่ยวกับฟีเจอร์ที่มีใน ROM นี้</string>
     <string name="astral_maintainer_title">ผู้ดูแล</string>
     <string name="astral_feature_clock_font_title">แบบอักษรของนาฬิกา</string>
+    <string name="astral_feature_three_finger_screenshot_title">จับภาพหน้าจอด้วยสามนิ้ว</string>
+    <string name="astral_feature_three_finger_screenshot_summary">ปัดลงด้วยสามนิ้วเพื่อจับภาพหน้าจอ</string>
 </resources>

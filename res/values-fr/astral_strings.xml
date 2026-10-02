@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">Découvrez les fonctionnalités incluses dans cette ROM</string>
     <string name="astral_maintainer_title">Mainteneur</string>
     <string name="astral_feature_clock_font_title">Police de l\'horloge</string>
+    <string name="astral_feature_three_finger_screenshot_title">Capture d\'écran à trois doigts</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Faites glisser trois doigts vers le bas pour prendre une capture d\'écran</string>
 </resources>

@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">Tìm hiểu về các tính năng có trong ROM này</string>
     <string name="astral_maintainer_title">Người bảo trì</string>
     <string name="astral_feature_clock_font_title">Phông đồng hồ</string>
+    <string name="astral_feature_three_finger_screenshot_title">Chụp màn hình ba ngón</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Vuốt xuống bằng ba ngón tay để chụp màn hình</string>
 </resources>

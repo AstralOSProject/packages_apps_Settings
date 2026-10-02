@@ -13975,6 +13975,8 @@
     <string name="astral_features_gestures_category">Gestures</string>
     <string name="astral_feature_shake_flashlight_title">Shake for Flashlight</string>
     <string name="astral_feature_shake_flashlight_summary">Firmly shake your phone to toggle the flashlight on or off</string>
+    <string name="astral_feature_three_finger_screenshot_title">Three-Finger Screenshot</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Swipe down with three fingers anywhere on the screen to take a screenshot</string>
 
     <string name="astral_features_entry_title">AstralOS Features</string>
     <string name="astral_features_entry_summary">Learn about the features included in this ROM</string>

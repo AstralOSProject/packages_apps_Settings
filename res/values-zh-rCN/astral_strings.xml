@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">了解此 ROM 包含的功能</string>
     <string name="astral_maintainer_title">维护者</string>
     <string name="astral_feature_clock_font_title">时钟字体</string>
+    <string name="astral_feature_three_finger_screenshot_title">三指截屏</string>
+    <string name="astral_feature_three_finger_screenshot_summary">三指向下滑动即可截屏</string>
 </resources>

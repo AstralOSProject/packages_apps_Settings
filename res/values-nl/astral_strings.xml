@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">Lees over de functies in deze ROM</string>
     <string name="astral_maintainer_title">Onderhouder</string>
     <string name="astral_feature_clock_font_title">Lettertype van de klok</string>
+    <string name="astral_feature_three_finger_screenshot_title">Screenshot met drie vingers</string>
+    <string name="astral_feature_three_finger_screenshot_summary">Veeg omlaag met drie vingers om een screenshot te maken</string>
 </resources>

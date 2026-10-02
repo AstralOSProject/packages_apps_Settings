@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">با ویژگی‌های این ROM آشنا شوید</string>
     <string name="astral_maintainer_title">نگهدارنده</string>
     <string name="astral_feature_clock_font_title">قلم ساعت</string>
+    <string name="astral_feature_three_finger_screenshot_title">اسکرین‌شات سه‌انگشتی</string>
+    <string name="astral_feature_three_finger_screenshot_summary">برای گرفتن اسکرین‌شات با سه انگشت به پایین بکشید</string>
 </resources>

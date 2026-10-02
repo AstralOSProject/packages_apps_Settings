@@ -37,4 +37,6 @@
     <string name="astral_features_entry_summary">इस ROM में शामिल सुविधाओं के बारे में जानें</string>
     <string name="astral_maintainer_title">मेंटेनर</string>
     <string name="astral_feature_clock_font_title">घड़ी फ़ॉन्ट</string>
+    <string name="astral_feature_three_finger_screenshot_title">तीन उंगलियों से स्क्रीनशॉट</string>
+    <string name="astral_feature_three_finger_screenshot_summary">स्क्रीनशॉट लेने के लिए तीन उंगलियों से नीचे स्वाइप करें</string>
 </resources>
